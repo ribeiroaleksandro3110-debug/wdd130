@@ -6,8 +6,9 @@ main img {
     width: 200px;
     height: auto;
     border: 10px;
-    padding: auto;
-    box-shadow: none;
+    padding: 6rem;
+    background-color: #eee;
+    box-shadow: transparent;
 }
 
 nav {
@@ -34,7 +35,9 @@ img {
 }
 
 p {
+
     padding: 0;
+
 }
 
 aside {
@@ -54,7 +57,9 @@ aside img {
 }
 
 footer {
-    margin-top: auto;
-    border-top: 10px;
+
+    margin-top: 15px;
+    border-top: 1px solid #000;
     text-align: center;
+
 }
