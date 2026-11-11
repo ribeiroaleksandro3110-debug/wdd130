@@ -1,25 +1,29 @@
 main {
     max-width: 840px;
+    margin: 0 auto;
 }
 
 main img {
-    width: 200px;
+    display: block;
+    width: 250px;
     height: auto;
-    border: 10px;
-    padding: 6rem;
+    border: 5px solid black;
+    padding: 1rem;
     background-color: #eee;
-    box-shadow: transparent;
+    box-shadow: 0 0 30px gray;
+    margin: 0 auto;
+
 }
 
 nav {
     background-color: darkblue;
-    padding: 10px;
+    padding: 15px;
 }
 
 nav a {
     color: white;
     display: block;
-    padding: 20px;
+    padding: 15px;
 }
 
 h1 {
@@ -27,11 +31,12 @@ h1 {
 }
 
 img {
-    width: 150px;
+
     height: auto;
     border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
+
 }
 
 p {
@@ -42,12 +47,12 @@ p {
 
 aside {
     width: 20rem;
-    margin: 1rem;
     border: 10px solid white;
     padding: 1rem;
     background-color: #eee;
     color: #333;
     text-align: center;
+    margin: auto;
 
 }
 
