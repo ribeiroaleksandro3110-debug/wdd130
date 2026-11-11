@@ -30,10 +30,11 @@ p {
 }
 
 aside {
-    width: 300px;
-    margin: 3px;
-    border: 10px;
-    padding: auto;
-    background-color: black;
-    color: antiquewhite;
+    width: 20rem;
+    margin: 1rem;
+    border: 10px solid white;
+    padding: 1rem;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
 }
