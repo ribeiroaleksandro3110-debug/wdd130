@@ -5,6 +5,9 @@ main {
 main img {
     width: 200px;
     height: auto;
+    border: 10px;
+    padding: auto;
+    box-shadow: none;
 }
 
 nav {
@@ -48,4 +51,10 @@ aside {
 aside img {
     width: 200px;
     height: auto;
+}
+
+footer {
+    margin-top: auto;
+    border-top: 10px;
+    text-align: center;
 }
