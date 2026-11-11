@@ -1,3 +1,7 @@
+main {
+    max-width: 840px;
+}
+
 nav {
     background-color: darkblue;
     padding: 10px;
@@ -23,4 +27,13 @@ img {
 
 p {
     padding: 10px;
+}
+
+aside {
+    width: 300px;
+    margin: 3px;
+    border: 10px;
+    padding: auto;
+    background-color: black;
+    color: antiquewhite;
 }
