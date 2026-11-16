@@ -17,13 +17,14 @@ body {
 main img {
     main.perfil {
         width: 150px;
-        max-width: 100%;
         height: auto;
         float: right;
         margin: 0 0 15px 15px;
         border: 3px solid black;
         padding: 2px;
         box-shadow: 0 0 15px gray;
+        margin-bottom: 20px;
+        margin-left: 200px;
     }
 }
 
@@ -44,7 +45,7 @@ h1 {
 
 img {
 
-    height: auto;
+    height: 150px;
     border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;

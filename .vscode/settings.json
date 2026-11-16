@@ -59,7 +59,7 @@
   "liveServer.settings.port": 5504,
 
   // disable copilot chat
-  "chat.agent.enabled": false,
+  "chat.agent.enabled": true,
   "chat.disableAIFeatures": true,
   "chat.commandCenter.enabled": false,
   "inlineChat.accessibleDiffView": "off",
