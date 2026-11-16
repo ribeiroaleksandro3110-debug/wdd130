@@ -31,8 +31,11 @@ footer {
 .redes-sociais {
     display: inline-block;
     justify-content: space-around;
-    width: 80px;
-    height: auto;
+    align-items: center;
+    gap: 15px;
+}
+
+.redes-sociais a {
     text-decoration: none;
 }
 
