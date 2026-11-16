@@ -24,18 +24,16 @@ main,
 footer {
     width: 100%;
     max-width: 840px;
-    margin: 0 auto;
+    margin: 5 auto;
     background-color: var(--cor-destaque2);
 }
 
-footer nav {
+.redes-sociais {
     display: inline-block;
     justify-content: space-around;
-}
-
-footer nav img {
     width: 80px;
     height: auto;
+    text-decoration: none;
 }
 
 h1,
@@ -52,10 +50,6 @@ section {
     margin: 16px;
     padding: 8px;
     display: block;
-}
-
-.redes-sociais a {
-    text-decoration: none;
 }
 
 .hero {
