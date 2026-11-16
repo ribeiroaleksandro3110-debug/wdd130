@@ -24,7 +24,7 @@ main,
 footer {
     width: 100%;
     max-width: 840px;
-    margin: 5 auto;
+    margin: 0 auto;
     background-color: var(--cor-destaque2);
 }
 
@@ -88,7 +88,8 @@ section {
 
 .hero article img {
     float: right;
-    width: 325px;
+    width: 360px;
     height: auto;
-    margin-left: 16px;
+    margin-left: 15px;
+    margin-top: 50px;
 }
