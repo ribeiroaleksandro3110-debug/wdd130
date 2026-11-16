@@ -14,18 +14,14 @@ body {
     margin: 0;
 }
 
-main img {
-    main.perfil {
-        width: 150px;
-        height: auto;
-        float: right;
-        margin: 0 0 15px 15px;
-        border: 3px solid black;
-        padding: 2px;
-        box-shadow: 0 0 15px gray;
-        margin-bottom: 20px;
-        margin-left: 200px;
-    }
+main .perfil {
+    width: 150px;
+    height: auto;
+    float: right;
+    margin: 0 0 20px 15px;
+    border: 3px solid black;
+    padding: 2px;
+    box-shadow: 0 0 15px gray;
 }
 
 nav {
@@ -35,7 +31,7 @@ nav {
 
 nav a {
     color: white;
-    display: block;
+    display: inline-block;
     padding: 10px;
 }
 
@@ -44,17 +40,16 @@ h1 {
 }
 
 img {
-
-    height: 150px;
+    max-width: 100%;
+    height: auto;
     border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
-
 }
 
 p {
 
-    padding: 0;
+    padding: 25px;
 
 }
 
