@@ -232,6 +232,10 @@ footer {
     opacity: 0.9;
 }
 
+.hero article h2 {
+    color: var(--cor-destaque1);
+}
+
 .hero article {
     position: absolute;
     bottom: 20px;
